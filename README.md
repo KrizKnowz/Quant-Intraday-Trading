@@ -1,7 +1,6 @@
 # Quant-Intraday-Trading
 
 > **Disclaimer:** Investing involves risk, including the possible loss of principal.  
-> This is a personal project for learning purposes only and should **not** be relied upon for actual investment decisions.
 
 ---
 
@@ -14,6 +13,6 @@
 ---
 
 ### Notes
-- This project is experimental and for educational use only.  
+- This is a personal project for learning purposes only and should **not** be relied upon for actual investment decisions.  
 - Contributions, suggestions, and discussions are welcome.  
 - Good luck and have fun!
